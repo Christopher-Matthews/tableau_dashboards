@@ -12,4 +12,5 @@ Example of a dashboard that helps a user explore housing prices by county in Ari
 
 
 [<img src="./housing_price_dash.png" width="600" height="400">](https://public.tableau.com/profile/chris.matthews#!/vizhome/ArizonaHomePrices/HomePriceDashboard?publish=yes)
+
 ---
