@@ -22,6 +22,6 @@ in the dashboard.
 
 [Link to dashboard on Tableau Public](https://public.tableau.com/profile/chris.matthews#!/vizhome/HowToPlayPoker/DashIntro)
 
-[<img src="./poker_screenshot.png" width="600" height="400">](https://public.tableau.com/profile/chris.matthews#!/vizhome/HowToPlayPoker/DashIntro)
+[<img src="./poker_screenshot.png" width="600" height="350">](https://public.tableau.com/profile/chris.matthews#!/vizhome/HowToPlayPoker/DashIntro)
 
 ---
